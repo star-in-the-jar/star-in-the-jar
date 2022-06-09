@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StanLee77 AKA Stanisław Jarocki 
+- 👋 Hi, I’m Stanisław Jarocki also known as Stanlee77
 - 👀 I’m interested in: Designing web and mobile applications
 - 🎉 My range of skills includes: React, JavaScript, CSS, HTML, GIT and Figma
 - 🌱 I’m currently learning: React (soon React Native)
