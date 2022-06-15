@@ -1,6 +1,6 @@
-- 👋 Hi, I am Stanisław (Stanley) Jarocki.
-- 👀 I am junior frontend developer.
-- 🪙 Currently, I am open to work.
+- 👋 Hi, I'm Stanisław (Stanley) Jarocki.
+- 👀 I'm junior frontend developer.
+- 🪙 Currently, I'm open to work.
 - 🎉 I use React, JavaScript, CSS, HTML, GIT and Figma.
 - 🌱 Right now, I'm broadening my React Hooks skills.
 - 👻 If you'd like to collaborate on some project contact me.
