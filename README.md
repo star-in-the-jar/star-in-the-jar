@@ -1,11 +1,7 @@
-- 👋 Hi, I’m Stanisław Jarocki also known as Stanlee77
-- 👀 I’m interested in: Designing web and mobile applications
-- 🎉 My range of skills includes: React, JavaScript, CSS, HTML, GIT and Figma
-- 🌱 I’m currently learning: React (soon React Native)
-- 👻 I'm open to job offers and collaborative projects
-- 📫 You can reach me by email: s.jarocki354@gmail.com
-
-<!---
-XxatorixX/XxatorixX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I am Stanisław (Stanley) Jarocki.
+- 👀 I am junior frontend developer.
+- 🪙 Currently, I am open to work.
+- 🎉 I use React, JavaScript, CSS, HTML, GIT and Figma.
+- 🌱 Right now, I'm broadening my React Hooks skills.
+- 👻 If you'd like to collaborate on some project contact me.
+- 📫 You can reach me by email s.jarocki354@gmail.com.
