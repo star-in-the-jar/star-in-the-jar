@@ -2,9 +2,8 @@
 - 👀 I'm junior frontend developer.
 - 🪙 Currently, I'm open to work.
 - 🎉 I use React, JavaScript, CSS, HTML, GIT and Figma.
-- 🌱 Right now, I'm broadening my React Hooks skills.
+- 🌱 Right now, I'm learning React Hooks
 - 👻 If you'd like to collaborate on some project contact me.
 - 📫 You can reach me:
-   - on LinkedIn: https://www.linkedin.com/in/stanis%C5%82aw-jarocki-6a268421b/
-   - on Instagram: https://www.instagram.com/stan_pages/
+   - on LinkedIn: https://www.linkedin.com/in/stanis%C5%82aw-stanley-jarocki-6a268421b/
    - by email: s.jarocki354@gmail.com.
