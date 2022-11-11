@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Stanisław (Stanley) Jarocki.
 - 👀 I'm junior fullstack developer.
-- 🪙 I'm open to work.
+- 🪙 I work at All For One.
 - 🎉 I use React.js, JavaScript, Node.js, CSS, HTML, GIT and Figma.
 - 👻 If you'd like to collaborate contact me.
 - 📫 You can reach me:
-   - on LinkedIn: https://www.linkedin.com/in/stanis%C5%82aw-stanley-jarocki-6a268421b/
+   - on LinkedIn: https://www.linkedin.com/in/stanis%C5%82aw-jarocki-6a268421b/
    - by email: s.jarocki354@gmail.com.
