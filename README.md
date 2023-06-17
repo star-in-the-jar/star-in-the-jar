@@ -1,4 +1,4 @@
-👋 Hi, I'm Stan.
+👋 Hi, I'm Stan. \n
 👀 I'm Junior Fullstack Developer.
 🎉 On a daily basis i use React, TypeScript, Node.js, CSS, GitHub (and a little bit of Nest.js, Java, Redux and Figma).
 🏝 Currently I work at All For One.
