@@ -35,7 +35,7 @@
 - 🥈 **HackYeah 2024** — [Our Greatest 24-Hour Victory](https://bit.ly/hackathon-hackyeah) *(2nd of 49)*  
 - 🥈 **Hacknarök 2024** — [Vikings’ Eternal Glory](https://bit.ly/hackathon-hacknarok) *(2nd of 16)*  
 - 🥉 **COI mHack 2023** — [Digital Solutions for Citizens](https://bit.ly/hackathon-mhack) *(4th of 24)*  
-- 🏅 **Smart City 2023** — [Smart Solutions for Urban Life](https://bit.ly/hackathon-smartcity)
+- 🏅 **Smart City 2023** — [Smart Solutions for Urban Life](https://bit.ly/hackathon-smartcity) *(3rd of 10)*
 
 ## 💡 Community Contributions  
 - 🎓 **Hackathon Organizer (Foundation)**: Co-organized **Hack of Tomorrow** for **100+** participants ([More](https://www.linkedin.com/feed/update/urn:li:activity:7331291991843954688))  
