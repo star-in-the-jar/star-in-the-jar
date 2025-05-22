@@ -38,7 +38,7 @@
 - 🏅 **Smart City 2023** — [Smart Solutions for Urban Life](https://bit.ly/hackathon-smartcity) *(3rd of 10)*
 
 ## 💡 Community Contributions  
-- 🎓 **Hackathon Organizer (Foundation)**: Co-organized **Hack of Tomorrow** for **100+** participants ([More](https://www.linkedin.com/feed/update/urn:li:activity:7331291991843954688))  
+- 🎓 **Hackathon Organizer (Foundation)**: Co-organized **Hack of Tomorrow** for **100+** participants ([More](https://bit.ly/hack-of-tomorrow-2025))  
 - 🎓 **Hackathon Organizer (University)**: Co-led the **UAM Hackathon** for **50+** participants ([More](https://bit.ly/uam-hackathon))  
 - 💬 **Grepper Forum Helper**: Shared tech solutions viewed 30,000+ times ([Grepper Profile](https://bit.ly/grepper-jarocki))
 
