@@ -19,17 +19,17 @@
 - Automated database cleanup to prevent overflow issues.
 
 ### 💻 Freelance Web Developer *(02.2020 – 08.2022)*  
-- Designed and built custom landing pages for clients such as [pasywnebudowanie.pl](https://pasywnebudowanie.pl) and [tune4race.pl](https://tune4race.pl), using **React, HTML, and SCSS**.
+- Designed and built custom landing pages for clients such as [pasywnebudowanie.pl](https://pasywnebudowanie.pl) and [tune4race.pl](https://tune4race.pl), using **React, HTML, Next.js, and SCSS**.
 
 ## 🛠️ Skills
 
 **Languages:** TypeScript, Java, SQL  
-**Frontend:** React, Next.js, Redux, CSS, HTML  
-**Backend:** Node.js, NestJS, Express.js  
+**Frontend:** React, Next.js, CSS, HTML
+**Backend:** Node.js, Nest.js, Express.js  
 **Cloud/DevOps:** Docker Swarm, Jenkins, CI/CD (GitHub Actions), Google Cloud, Linux servers  
-**Tools:** Vim, Git, NPM  
+**Tools:** Vim, Git, NPM, rush
 **Soft skills:** Communicative, Proactive, Goal-oriented  
-**Methodologies:** SCRUM
+**Methodologies:** SCRUM, Kanban
 
 ## 🏆 Hackathons  
 - 🥈 **HackYeah 2024** — [Our Greatest 24-Hour Victory](https://bit.ly/hackathon-hackyeah) *(2nd of 49)*  
@@ -38,8 +38,8 @@
 - 🏅 **Smart City 2023** — [Smart Solutions for Urban Life](https://bit.ly/hackathon-smartcity)
 
 ## 💡 Community Contributions  
-- 🎓 **Hackathon Organizer (Foundation)**: Co-organized **Hack of Tomorrow** for 100+ participants ([More](https://bit.ly/webrains))  
-- 🎓 **Hackathon Organizer (University)**: Co-led the **UAM Hackathon** for 50+ participants ([More](https://bit.ly/uam-hackathon))  
+- 🎓 **Hackathon Organizer (Foundation)**: Co-organized **Hack of Tomorrow** for **100+** participants ([More](https://bit.ly/webrains))  
+- 🎓 **Hackathon Organizer (University)**: Co-led the **UAM Hackathon** for **50+** participants ([More](https://bit.ly/uam-hackathon))  
 - 💬 **Grepper Forum Helper**: Shared tech solutions viewed 30,000+ times ([Grepper Profile](https://bit.ly/grepper-jarocki))
 
 ## 📫 Contact  
