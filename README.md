@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Stanislaw Jarocki  
-**Full-Stack Software Engineer | Hackathon Enthusiast | Automation & AI Explorer**
+**DevOps & Full-Stack Software Engineer | Hackathon Enthusiast | Automation & AI Explorer**
 
 📍 Computer Science student at **Adam Mickiewicz University of Poznań (2022–2026)**  
 💻 5 years of experience (3+ in commercial settings) with a passion for web technologies, automation, and cloud infrastructure.
